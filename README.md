@@ -1,2 +1,2 @@
-# A-mimir
+# Nomina
 Nomina
